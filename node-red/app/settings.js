@@ -110,7 +110,7 @@ module.exports = {
             permissions: "*"
         }],
         default: {
-            permissions: process.env.DEFAULTPERMISSIONS,
+            permissions: process.env.DEFAULTPERMISSIONS
         }
     },
 
